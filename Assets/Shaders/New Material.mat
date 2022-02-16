@@ -40,7 +40,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 06f69b0c66bf9654e8589231a12416e1, type: 3}
+        m_Texture: {fileID: 2800000, guid: 696e571592ccb2d41bdfd6be7cfe26fc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -48,7 +48,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalTex:
-        m_Texture: {fileID: 2800000, guid: 696e571592ccb2d41bdfd6be7cfe26fc, type: 3}
+        m_Texture: {fileID: 2800000, guid: 06f69b0c66bf9654e8589231a12416e1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -65,26 +65,26 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
-    - _GlossStrength: 0.86
+    - _GlossStrength: 0.6
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
-    - _NormalStrength: 0.84
+    - _NormalStrength: 0.46
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _RimStrength: 1.61
+    - _RimStrength: 1.12
     - _SmoothnessTextureChannel: 0
-    - _SpecStrength: 0.773
+    - _SpecStrength: 0.26
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Albedo: {r: 0.9339623, g: 0.7474541, b: 0.593859, a: 1}
+    - _Albedo: {r: 0.9150943, g: 0.8847797, b: 0.85898006, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _RimColor: {r: 0.6603774, g: 0.44180363, b: 0.28284088, a: 1}
+    - _RimColor: {r: 0.6509434, g: 0.5964103, b: 0.5557583, a: 1}
     - _SpecColor: {r: 1, g: 0.8328653, b: 0.44716978, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
